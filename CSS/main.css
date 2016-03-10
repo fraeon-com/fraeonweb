@@ -11,13 +11,13 @@ body {
 }
 
 .mdl-layout__header,
-.mdl-layout, .mdl-layout__drawer-button
+.mdl-layout, .mdl-layout__drawer-button,
 .mdl-layout__header-row {
-  color: white !important;
+  color: white;
 }
 
 .mdl-layout__drawer-button i {
-  padding-top: 10px;
+  padding-top: 8px;
 }
 
 .mdl-navigation__link {
