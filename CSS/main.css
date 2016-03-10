@@ -13,7 +13,7 @@ body {
 .mdl-layout__header,
 .mdl-layout, .mdl-layout__drawer-button,
 .mdl-layout__header-row, .mdl-navigation__link {
-  color: white !important;
+  color: white;
 }
 
 .mdl-layout__header-row .mdl-layout-title a {
