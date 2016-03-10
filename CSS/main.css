@@ -11,11 +11,15 @@ body {
 }
 
 .mdl-layout__header,
-.mdl-layout, .mdl-layout__drawer-button {
+.mdl-layout, .mdl-layout__drawer-button
+.mdl-layout__header-row {
   color: white !important;
 }
 
-.mdl-layout__header-row .mdl-layout-title a {
-    font-family: Comfortaa !important;
-    color: white;
+.mdl-layout__drawer-button i {
+  padding-top: 10px;
+}
+
+.mdl-navigation__link {
+  font-weight: 500;
 }
