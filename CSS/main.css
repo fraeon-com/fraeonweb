@@ -12,15 +12,10 @@ body {
 
 .mdl-layout__header,
 .mdl-layout, .mdl-layout__drawer-button {
-  color: white;
+  color: white !important;
 }
 
 .mdl-layout__header-row .mdl-layout-title a {
-    font-family: Comfortaa;
+    font-family: Comfortaa !important;
     color: white;
-}
-
-.mdl-layout__drawer .mdl-layout-title a {
-    font-family: Comfortaa;
-    color: inherit;
 }
