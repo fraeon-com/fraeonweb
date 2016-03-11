@@ -32,7 +32,7 @@ body {
   padding-bottom: 0;
 }
 
-.portfolio-blog-card-full-bg {
+/*.portfolio-blog-card-full-bg {
   background: url(images/example-blog03.jpg) center / cover;
 }
 
@@ -46,7 +46,7 @@ body {
 
 .portfolio-blog-card-compact .mdl-card__title {
   padding-bottom: 0;
-}
+}*/
 
 .portfolio-blog-card-bg > .mdl-card__actions {
   height: 52px;
