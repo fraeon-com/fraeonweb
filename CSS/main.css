@@ -12,12 +12,12 @@ body {
 
 .mdl-layout__header,
 .mdl-layout, .mdl-layout__drawer-button,
-.mdl-layout__header-row {
-  color: white;
+.mdl-layout__header-row, .header-main-link {
+  color: white !important;
 }
 
 .mdl-layout__drawer-button i {
-  padding-top: 8px;
+  padding-top: 10px;
 }
 
 .mdl-navigation__link {
