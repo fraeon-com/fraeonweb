@@ -28,11 +28,11 @@ body {
   margin-top: 6px;
 }
 
-.portfolio-card .mdl-card__title {
+/*.portfolio-card .mdl-card__title {
   padding-bottom: 0;
 }
 
-/*.portfolio-blog-card-full-bg {
+.portfolio-blog-card-full-bg {
   background: url(images/example-blog03.jpg) center / cover;
 }
 
@@ -42,11 +42,11 @@ body {
 
 .portfolio-blog-card-strip-bg {
   background: url(images/example-blog06.jpg) center / cover;
-}
+}*/
 
 .portfolio-blog-card-compact .mdl-card__title {
   padding-bottom: 0;
-}*/
+}
 
 .portfolio-blog-card-bg > .mdl-card__actions {
   height: 52px;
@@ -83,13 +83,6 @@ img.article-image {
 .padding-top {
   padding: 10px 0 0;
 }
-
-.portfolio-share-btn {
-  position: relative;
-  float: right;
-  top: -4px;
-}
-
 .demo-card-event > .mdl-card__actions {
     -webkit-align-items: center;
         -ms-flex-align: center;
