@@ -28,15 +28,15 @@ body {
   margin-top: 6px;
 }
 
-/*.portfolio-card .mdl-card__title {
+.portfolio-card .mdl-card__title {
   padding-bottom: 0;
 }
 
 .portfolio-blog-card-full-bg {
-  background: url(images/example-blog03.jpg) center / cover;
+  background: url(/images/example-blog01.jpg) center / cover;
 }
 
-.portfolio-blog-card-event-bg {
+/*.portfolio-blog-card-event-bg {
   background: url(images/example-blog05.jpg) center / cover;
 }
 
