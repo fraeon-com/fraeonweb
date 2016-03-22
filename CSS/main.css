@@ -12,6 +12,10 @@ body {
     opacity: 1;
 }
 
+.mdl-layout__header, .mdl-layout__drawer-button {
+    color: white;
+}
+
 /* Keep All Code Below This Line */
 .portfolio-card .mdl-card__title {
   padding-bottom: 0;
