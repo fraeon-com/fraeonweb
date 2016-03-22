@@ -2,13 +2,6 @@
   height: 45px;
 }
 
-.portfolio-header .mdl-layout__header-row {
-  padding: 0;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-}
-
 .mdl-layout__title {
   font-size: 14px;
   text-align: center;
@@ -17,28 +10,6 @@
 
 .is-compact .mdl-layout__title span {
   display: none;
-}
-
-.portfolio-logo-row {
-  min-height: 200px;
-}
-
-.is-compact .portfolio-logo-row {
-  min-height: auto;
-}
-
-.portfolio-logo {
-  background: url(images/logo.png) 50% no-repeat;
-  background-size: cover;
-  height: 150px;
-  width: 150px;
-  margin: auto auto 10px;
-}
-
-.is-compact .portfolio-logo {
-  height: 50px;
-  width: 50px;
-  margin-top: 7px;
 }
 
 .portfolio-navigation-row {
