@@ -2,17 +2,6 @@
   height: 45px;
 }
 
-.mdl-layout__title {
-  font-size: 14px;
-  text-align: center;
-  font-weight: 700;
-  color: #fff;
-}
-
-.is-compact .mdl-layout__title span {
-  display: none;
-}
-
 .portfolio-card .mdl-card__title {
   padding-bottom: 0;
 }
