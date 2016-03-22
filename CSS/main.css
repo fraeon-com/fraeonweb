@@ -22,6 +22,12 @@ body {
   color: inherit;
 }
 
+.search-field {
+    padding-top: 25px;
+}
+
+
+/* Keep All Code Below This Line */
 .portfolio-card .mdl-card__title {
   padding-bottom: 0;
 }
