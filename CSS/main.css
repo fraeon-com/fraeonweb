@@ -123,12 +123,3 @@ img.article-image {
     display: -ms-flexbox;
     display: flex;
 }
-
-.portfolio-contact .mdl-textfield {
-  width: 100%;
-}
-
-.portfolio-contact form {
-  max-width: 550px;
-  margin: auto;
-}
