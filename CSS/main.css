@@ -1,11 +1,25 @@
+body {
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
 .headerlogo {
   height: 45px;
 }
 
-.mdl-navigation__link i {
-  vertical-align: middle;
-  margin-right: 5px;
-  margin-bottom: 5px;
+.mdl-layout__header,
+.mdl-layout, .mdl-layout__drawer-button,
+.mdl-layout__header-row .mdl-navigation__link {
+  color: white;
+}
+
+.mdl-layout__header-row .mdl-layout-title a {
+  font-family: Comfortaa;
+  color: white;
+}
+
+.mdl-layout__drawer .mdl-layout-title a {
+  font-family: Comfortaa;
+  color: inherit;
 }
 
 .portfolio-card .mdl-card__title {
