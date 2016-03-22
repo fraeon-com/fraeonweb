@@ -8,7 +8,7 @@ body {
 
 .header-main-link {
     font-weight: 700;
-    color: #fff;
+    color: #fff !important;
     opacity: 1;
 }
 
