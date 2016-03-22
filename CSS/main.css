@@ -2,6 +2,12 @@
   height: 45px;
 }
 
+.mdl-navigation__link i {
+  vertical-align: middle;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
 .portfolio-card .mdl-card__title {
   padding-bottom: 0;
 }
