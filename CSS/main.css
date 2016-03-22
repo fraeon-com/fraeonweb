@@ -13,7 +13,7 @@ body {
 }
 
 .mdl-layout__header, .mdl-layout__drawer-button {
-    color: white;
+    color: white !important;
 }
 
 /* Keep All Code Below This Line */
