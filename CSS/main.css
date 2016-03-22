@@ -3,9 +3,13 @@ body {
 }
 
 .headerlogo {
-  height: 45px;
+    height: 45px;
 }
 
+.header-main-link {
+    font-weight: 700;
+    color: #fff;
+}
 
 /* Keep All Code Below This Line */
 .portfolio-card .mdl-card__title {
