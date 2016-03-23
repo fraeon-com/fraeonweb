@@ -17,27 +17,27 @@ body {
 }
 
 /* Keep All Code Below This Line */
-.portfolio-card .mdl-card__title {
+.fraeon-card .mdl-card__title {
   padding-bottom: 0;
 }
 
-.portfolio-blog-card-full-bg {
+.fraeon-blog-card-full-bg {
   background: url(/images/example-blog03.jpg) center / cover;
 }
 
-.portfolio-blog-card-event-bg {
+.fraeon-blog-card-event-bg {
   background: url(/images/example-blog05.jpg) center / cover;
 }
 
-.portfolio-blog-card-strip-bg {
+.fraeon-blog-card-strip-bg {
   background: url(/images/example-blog06.jpg) center / cover;
 }
 
-.portfolio-blog-card-compact .mdl-card__title {
+.fraeon-blog-card-compact .mdl-card__title {
   padding-bottom: 0;
 }
 
-.portfolio-blog-card-bg > .mdl-card__actions {
+.fraeon-blog-card-bg > .mdl-card__actions {
   height: 52px;
   padding: 16px;
   background: rgba(0, 0, 0, 0.2);
@@ -48,12 +48,12 @@ img.article-image {
   height: auto;
 }
 
-.portfolio-max-width {
+.fraeon-max-width {
   max-width: 900px;
   margin: auto;
 }
 
-.portfolio-copy {
+.fraeon-copy {
   max-width: 700px;
 }
 
@@ -73,7 +73,7 @@ img.article-image {
   padding: 10px 0 0;
 }
 
-.portfolio-share-btn {
+.fraeon-share-btn {
   position: relative;
   float: right;
   top: -4px;
