@@ -21,6 +21,10 @@ body {
     text-decoration: none;
 }
 
+#tt1 {
+    margin-right: 5px;
+}
+
 /* Keep All Code Below This Line */
 .fraeon-card .mdl-card__title {
   padding-bottom: 0;
