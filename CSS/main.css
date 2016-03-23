@@ -16,6 +16,11 @@ body {
     color: white !important;
 }
 
+.title-text-link {
+    color: rgba(0, 0, 0, .87);
+    text-decoration: none;
+}
+
 /* Keep All Code Below This Line */
 .fraeon-card .mdl-card__title {
   padding-bottom: 0;
