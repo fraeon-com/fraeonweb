@@ -42,6 +42,7 @@ body {
   font-weight: 500;
   border-top-left-radius: 2px;
   border-top-right-radius: 2px;
+  padding: 24px;
 }
 
 .info-card .mdl-card__media img {
