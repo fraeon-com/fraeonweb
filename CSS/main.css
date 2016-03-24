@@ -101,6 +101,7 @@ body {
 
 .fraeon-blog-card-strip-bg {
   background: url(/images/example-blog06.jpg) center / cover;
+  min-height: 150px;
 }
 
 .fraeon-blog-card-compact .mdl-card__title {
