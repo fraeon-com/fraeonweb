@@ -4,6 +4,7 @@ body {
 
 footer, .mdl-mini-footer {
     background-color: rgb(243, 243, 243);
+    color: rgb(158, 158, 158);
 }
 
 .mdl-layout__content {
