@@ -2,8 +2,8 @@ body {
     font-family: Roboto, Helvetica, sans-serif;
 }
 
-footer {
-    background-color: rgb(250, 250, 250);
+footer, .mdl-mini-footer {
+    background-color: rgb(243, 243, 243);
 }
 
 .mdl-layout__content {
