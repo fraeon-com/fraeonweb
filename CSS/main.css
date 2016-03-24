@@ -91,6 +91,19 @@ footer {
           justify-content: space-between;
 }
 
+.social-btn {
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  margin: 0 16px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  opacity: 0.46;
+  border-radius: 2px;
+}
+
 .social-btn__gplus {
   background-image: url('https://www.gstatic.com/images/icons/material/system/2x/post_gplus_black_24dp.png');
 }
