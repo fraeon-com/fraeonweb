@@ -43,6 +43,9 @@ body {
   border-top-left-radius: 2px;
   border-top-right-radius: 2px;
   padding: 24px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .info-card .mdl-card__media img {
