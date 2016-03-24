@@ -2,6 +2,10 @@ body {
     font-family: Roboto, Helvetica, sans-serif;
 }
 
+.mdl-layout__content {
+    padding-top: 20px;
+}
+
 .headerlogo {
     height: 45px;
 }
