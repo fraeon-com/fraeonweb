@@ -4,7 +4,6 @@ body {
 
 footer, .mdl-mini-footer {
     background-color: rgb(243, 243, 243);
-    color: rgb(158, 158, 158);
 }
 
 .mdl-layout__content {
@@ -90,6 +89,10 @@ footer, .mdl-mini-footer {
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
           justify-content: space-between;
+}
+
+.mdl-mini-footer .mdl-logo {
+    color: rgb(158, 158, 158);
 }
 
 .social-btn {
