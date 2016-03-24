@@ -67,6 +67,15 @@ body {
     z-index: 10;
 }
 
+.meta {
+    align-items: center;
+    box-sizing: border-box
+    display: flex;
+    flex-direction: row;
+    min-height: 64px;
+    width: 100%;
+}
+
 .meta.meta--fill {
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
