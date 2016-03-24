@@ -21,6 +21,11 @@ body {
     text-decoration: none;
 }
 
+.image-text-link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
 #tt1 {
     margin-right: 5px;
 }
