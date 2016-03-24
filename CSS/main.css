@@ -30,6 +30,14 @@ body {
     margin-right: 5px;
 }
 
+.info-card > button {
+  position: absolute;
+  top: 0;
+  right: 28px;
+  -webkit-transform: translate(0px, -28px);
+          transform: translate(0px, -28px);
+}
+
 /* Keep All Code Below This Line */
 .fraeon-card .mdl-card__title {
   padding-bottom: 0;
