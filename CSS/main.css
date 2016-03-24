@@ -50,6 +50,11 @@ body {
   border-bottom-right-radius: 2px;
 }
 
+.info-card {
+    overflow: visible;
+    z-index: 10;
+}
+
 /* Keep All Code Below This Line */
 .fraeon-card .mdl-card__title {
   padding-bottom: 0;
