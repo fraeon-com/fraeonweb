@@ -46,6 +46,7 @@ body {
   align-items: center;
   display: flex;
   flex-direction: column;
+  flex-grow: 1;
 }
 
 .info-card .mdl-card__media img {
