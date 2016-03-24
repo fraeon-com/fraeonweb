@@ -30,13 +30,13 @@ body {
     margin-right: 5px;
 }
 
-.demo-blog.is-small-screen .demo-blog__posts > .mdl-card.something-else {
+.fraeon-site.is-small-screen .fraeon-site__posts > .mdl-card.something-else {
   -webkit-order: -1;
       -ms-flex-order: -1;
           order: -1;
 }
 
-.something-else .mdl-card__media {
+.fraeon-site .something-else .mdl-card__media {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -51,7 +51,7 @@ body {
           align-items: center;
 }
 
-.something-else > button {
+.fraeon-site .something-else > button {
   position: absolute;
   top: 0;
   right: 28px;
@@ -59,25 +59,25 @@ body {
           transform: translate(0px, -28px);
 }
 
-.something-else {
+.fraeon-site .something-else {
   overflow: visible;
   z-index: 10;
 }
 
-.something-else .mdl-card__media {
+.fraeon-site .something-else .mdl-card__media {
   font-size: 13px;
   font-weight: 500;
   border-top-left-radius: 2px;
   border-top-right-radius: 2px;
 }
 
-.something-else .mdl-card__media img {
+.fraeon-site .something-else .mdl-card__media img {
   width: 64px;
   height: 64px;
   margin-bottom: 10px;
 }
 
-.something-else .mdl-card__supporting-text {
+.fraeon-site .something-else .mdl-card__supporting-text {
   background-color: #F5F5F5;
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
