@@ -23,6 +23,7 @@ footer, .mdl-mini-footer {
 .dropdown-link {
     text-decoration: none;
     color: inherit;
+    font-weight: inherit;
 }
 
 .mdl-layout__header, .mdl-layout__drawer-button {
