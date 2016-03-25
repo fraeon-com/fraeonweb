@@ -20,6 +20,11 @@ footer, .mdl-mini-footer {
     opacity: 1;
 }
 
+.dropdown-link {
+    text-decoration: none;
+    color: inherit;
+}
+
 .mdl-layout__header, .mdl-layout__drawer-button {
     color: white !important;
 }
