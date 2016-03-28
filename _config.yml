@@ -10,7 +10,7 @@ title: fraeon, all kinds of cool tech and stuff
 email: fraeon.com@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   At fraeon we are interested in all kind of tech related and unrelated things.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fraeon.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
