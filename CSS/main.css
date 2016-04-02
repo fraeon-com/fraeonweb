@@ -80,6 +80,7 @@ footer, .mdl-mini-footer {
 .info-card {
     overflow: visible;
     z-index: 10;
+    min-height: 360px;
 }
 
 .meta {
