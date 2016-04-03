@@ -201,3 +201,12 @@ img.article-image {
     display: -ms-flexbox;
     display: flex;
 }
+
+.fraeon-contact .mdl-textfield {
+  width: 100%;
+}
+
+.fraeon-contact form {
+  max-width: 550px;
+  margin: auto;
+}
