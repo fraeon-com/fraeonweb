@@ -74,13 +74,13 @@
               <p>
                   Have a question or suggestion? Let us know here and we'll get back to you as soon as we can.
               </p>
-              <form action="#" class="">
+              <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/1PomLhqi8z0PsO2g-f3APTC5Hb6qS7mURNl_4KB2nJ8w/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
                   <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                      <input class="mdl-textfield__input" type="text" id="Email">
+                      <input class="mdl-textfield__input" type="text" name="entry.525298818" id="entry.525298818">
                       <label class="mdl-textfield__label" for="Email">Email...</label>
                   </div>
                   <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                      <textarea class="mdl-textfield__input" type="text" rows="5" id="note"></textarea>
+                      <textarea class="mdl-textfield__input" type="text" rows="5" name="entry.1693469580" id="entry.1693469580"></textarea>
                       <label class="mdl-textfield__label" for="note">Enter note</label>
                   </div>
                   <p>
@@ -89,6 +89,7 @@
                     </button>
                   </p>
               </form>
+              <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
             </div>
           </div>
 
